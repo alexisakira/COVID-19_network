@@ -1,8 +1,10 @@
 Replication files for
 "The Effect of Social Distancing on the Reach of an Epidemic in Social Networks"
-by Gutin, Hirano, Hwang, Neary, and Toda,
 Journal of Economic Interaction and Coordination
-Confirmed to run on Matlab R2019b.
+https://doi.org/10.1007/s11403-021-00322-9
+by Gutin, Hirano, Hwang, Neary, and Toda
+
+Confirmed to run on Matlab R2019b
 
 All files written by Alexis Akira Toda
 
